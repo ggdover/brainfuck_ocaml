@@ -1,2 +1,3 @@
 (executable
+ (libraries base str)
  (name main))
