@@ -1,3 +1,4 @@
 (executable
- (libraries base str)
- (name main))
+ (libraries base str brainfuck_ocaml_lib)
+ (name main)
+ (public_name brainfuck_ocaml))
